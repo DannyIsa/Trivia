@@ -4,6 +4,9 @@
 hello welcome to trivia game version -2
 in order to run the app , locally on your computer follow the the next orders:
 (we are going to work on branch cloud2-amit)
+
+
+
 first of all you should open a local connection on your SQL workbench
 a.after cloning this repo , go to branch cloud2-amit and open in vs code.
 b.go to the folder db and add a file named ".env" - (the file should be at the root of the folder db : "TRIVIA/DB/.env").
