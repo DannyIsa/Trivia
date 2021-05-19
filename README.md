@@ -27,7 +27,7 @@ SQL_DIALECT =
 ACCESS_TOKEN_SECRET =
 REFRESH_TOKEN_SECRET =
 
----
+----
 
 copy the above and sing into those variables your one local sql connection details.
 
