@@ -9,8 +9,11 @@ in order to run the app , locally on your computer follow the the next orders:
 
 first of all you should open a local connection on your SQL workbench
 a.after cloning this repo , go to branch cloud2-amit and open in vs code.
+
 b.go to the folder db and add a file named ".env" - (the file should be at the root of the folder db : "TRIVIA/DB/.env").
+
 c. go to the file ".gitignore" inside the db folder and type .env in a new line
+
 d.the content of the .env file-you just created should look like this:
 
 ---
